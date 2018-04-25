@@ -15,9 +15,10 @@ Basically just opens Terminal and executes `$ vrecord -g`, but unlike an executa
 
 ### via GitHub
 
-1. Click on "release" tab at top of this repository.
-2. Click on source code (either .zip or .tar.gz to download).
-3. Unzip the download. You'll need an archiver application like [The Unarchiver](https://theunarchiver.com/) to unpack the .tar.gz
-4. The "vrecord" applet will be contained in the unzipped folder. Move it to your Applications folder/Dock as desired.
+1. vrecord must already be installed (see above)
+2. Click on "release" tab at top of this repository.
+3. Click on source code (either .zip or .tar.gz to download).
+4. Unzip the download. You'll need an archiver application like [The Unarchiver](https://theunarchiver.com/) to unpack the .tar.gz
+5. The "vrecord" applet will be contained in the unzipped folder. Move it to your Applications folder/Dock as desired.
 
 Either way you install, creating a [custom icon](https://support.apple.com/kb/PH25383?locale=en_US) for your fancy new vrecord launcher is highly recommended :wink:
